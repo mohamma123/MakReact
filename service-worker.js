@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mohamma123/MakReact/precache-manifest.2eeb2ebe80ddf669948704e19d3f7bfe.js"
+  "/MakReact/precache-manifest.725d2c255a37566691957afc59d0c29f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mohamma123/MakReact/index.html", {
+workbox.routing.registerNavigationRoute("/MakReact/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
