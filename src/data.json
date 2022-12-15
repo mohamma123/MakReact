@@ -1,0 +1,77 @@
+{
+    "title": "Howdy, This is Moheb",
+    "subtitle": "A Multipotentialite",
+    "links": {
+        "github": "https://github.com/mohamma123",
+        "linkedin": "https://www.linkedin.com/in/mohammad-mahdi-mohebali/"
+    },
+    "sections": [
+        {
+            "title": "About Me",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "Being a full stack dev is fun"
+                },
+                {
+                    "type": "p",
+                    "content": "Working on my dev skills"
+                },
+                {
+                    "type": "p",
+                    "content": "Soul receives from soul that knowledge, therefore not by book nor from tongue. If knowledge of mysteries come after emptiness of mind, that is illumination of heart."
+                }
+            ]
+        },
+        {
+            "title": "What I know!",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/prod.png",
+                        "title": "Product Owner"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    }
+}
